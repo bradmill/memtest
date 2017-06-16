@@ -3,7 +3,7 @@
 //  memtest
 //
 //  Created by Jason on 16/06/2017.
-//  Copyright © 2017 Precise Things. All rights reserved.
+//  Copyright © 2017 Jason. All rights reserved.
 //
 
 import UIKit
